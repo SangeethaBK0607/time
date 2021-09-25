@@ -1,0 +1,13 @@
+#clock{
+   font-size:60px;
+   width: 300px;
+   margin: 10px 200px 200px 10px;
+   text-align: center;
+   border:5px solid hsl(234, 59%, 34%);
+   border-radius:5px;;
+   background-color: #60b0cf;
+}
+html{
+    background-image: url(bg3.gif);
+    background-size: cover;
+}
